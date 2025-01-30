@@ -1,2 +1,2 @@
 # PixelCraft-mods
-Here i'm gonna see if 
+__Goal:__ *learning how to create MineCraft Mods*
